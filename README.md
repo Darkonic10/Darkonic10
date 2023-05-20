@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 I am a Frontend Developer <img src="https://i.giphy.com/media/gUnRTJ0zqHJRe/giphy.webp" width="30"> from Russia.
-- :telescope: I am actively looking for a job as a Frontend Developer.
+- :telescope: I am actively looking for a fulltime job as a Frontend Developer.
 
 - :seedling: Learning React and Node.js technologies.
 
