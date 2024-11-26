@@ -17,9 +17,9 @@
 
 ### :man_technologist: About Me :
 I am a Frontend Developer <img src="https://i.giphy.com/media/gUnRTJ0zqHJRe/giphy.webp" width="30"> from Russia.
-- :telescope: I am actively looking for a fulltime job as a Frontend Developer.
+- :telescope: I currently work full-time as a front-end developer.
 
-- :seedling: Learning React and Node.js technologies.
+- :seedling: The main framework for working with Angular.
 
 - :zap: In my free time I solve Code wars problems, read technical articles, learn new technologies and implement pet-projects.
 
